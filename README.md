@@ -31,9 +31,10 @@ Soy un aprendiz rápido y estoy motivado para enfrentar nuevos desafíos.
 Tengo una sólida base en desarrollo back end y estoy ansioso por aprender y aplicar mis conocimientos en un entorno profesional.
 <!-- Mi interés en las criptomonedas y blockchain me impulsa a buscar oportunidades que combinen mis habilidades técnicas con este emocionante campo tecnológico. -->
 
-### Enlaces
+---
+ 
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> ](https://www.linkedin.com/in/-kevin-vigil/)
 
-- **LinkedIn:** [LinkedIn]([URL_de_tu_perfil](https://www.linkedin.com/in/-kevin-vigil/))
 <!--
 
 Here are some ideas to get you started:
