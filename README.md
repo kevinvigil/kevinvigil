@@ -1,4 +1,4 @@
-## Perfil de Desarrollador Back End Jr. con Interés en Criptomonedas, Blockchain y Java/Spring
+## Desarrollador Back End Jr. con Interés en Criptomonedas, Blockchain y Java/Spring
 ¡Hola! Soy un desarrollador junior en busca de oportunidades para aprender y crecer en el mundo del desarrollo back end. Me apasiona especialmente el desarrollo con Java y Spring, además de tener un interés particular en las tecnologías relacionadas con las criptomonedas y blockchain. Estoy emocionado por explorar cómo estas tecnologías pueden transformar diferentes industrias y estoy dispuesto a adquirir más conocimientos en estos campos.
 
 ### Acerca de mí
