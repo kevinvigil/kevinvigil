@@ -1,37 +1,48 @@
-## Hi, i'm Kevin Vigil 👋
-¡Hola! Soy un desarrollador junior en busca de oportunidades para aprender y crecer en el mundo del desarrollo back end. Me apasiona especialmente el desarrollo con Java y Spring, además de tener un interés particular en las tecnologías relacionadas con las criptomonedas y blockchain. Estoy emocionado por explorar cómo estas tecnologías pueden transformar diferentes industrias y estoy dispuesto a adquirir más conocimientos en estos campos.
+# Hi, i'm Kevin Vigil 👋
 
-### Acerca de mí
-Soy un hombre de 21 años buscando dar sus primeros pasos en la industria. Me encanta trabajar en equipo y aprender de mis compañeros. Estoy emocionado por contribuir en proyectos que me permitan desarrollar mis habilidades técnicas y ser parte de un equipo innovador.
+</br>
 
-### Habilidades Técnicas
-Lenguajes de Programación: Java, JavaScript, React
-Frameworks: Kotlin (en proceso), Next.js
-Bases de Datos: PostgreSQL, MySQL, MongoDB
-Conceptos Fundamentales: RESTful APIs, CRUD Operations, MVC Architecture
-Herramientas de Control de Versiones: Git, GitHub
+<details>
+ <summary>
+   More stuff about me
+ </summary>
+  
+ ## Stack
+ - Java
+ - Spring
+ - Docker
+ - Git, GitHub
+ - PostgreSQL, SQL Lite, MySQL, MongoDB, ...
+ - ...
 
-<!-- Proyectos Destacados
-Sistema de Gestión de Usuarios (Python/Flask): Desarrollé un sistema de gestión de usuarios completo utilizando Flask y MySQL, permitiendo el registro, autenticación y gestión de perfiles de usuarios.
-API REST para Aplicación de Tareas (Node.js/Express): Creé una API RESTful con Node.js y Express para una aplicación de gestión de tareas, permitiendo la creación, lectura, actualización y eliminación de tareas. -->
+</br>
 
-### Intereses Especiales
-Me apasiona aprender sobre las criptomonedas y la tecnología blockchain, así como el desarrollo con Java y Spring. Estoy interesado en explorar cómo estas tecnologías pueden transformar diferentes industrias y estoy dispuesto a adquirir más conocimientos en estos campos.
+ ## Interested in
+ - Backend related topics
+ - Concurrency at thread and multi instance level
+ - Payments & Fintech in general
 
-### Educación
-Técnico Universitario en Desarrollo de Aplicaciones Informáticas
-Universidad Nacional del Centro (UNICEN)
+</br>
 
-<!-- Certificaciones
-Certificado en Desarrollo Web Full Stack
-Plataforma de Educación en Línea (Año de Obtención) -->
+ ## Languages 🌐
+ 
+ | Language | Proficiency |
+ | -------- | ----------- |
+ | English  | B1          |
+ | Spanish  | Native      |
 
-### ¿Por Qué Me Deberían Contratar?
-Soy un aprendiz rápido y estoy motivado para enfrentar nuevos desafíos.
-Tengo una sólida base en desarrollo back end y estoy ansioso por aprender y aplicar mis conocimientos en un entorno profesional.
-<!-- Mi interés en las criptomonedas y blockchain me impulsa a buscar oportunidades que combinen mis habilidades técnicas con este emocionante campo tecnológico. -->
+</br>
 
----
+ ## Who Am I?
+
+ I recently finished studying programming and I'm eager to find my first big job. Apart from coding, I enjoy hanging out with friends, reading, working on personal projects, and being outdoors. Right now, I live in Tandil, Argentina, but I'm open to moving for work. At first, I got into programming because of the job opportunities, but now I love solving software problems. Finishing my degree was a big accomplishment, and it motivated me to keep searching for opportunities. Lately, I've been working on a project about finances—a billing system. I believe in teamwork, family, taking initiative, and being proactive. My big goal is to be financially stable so I can focus on work. When I start a job, I give it my all and family is really important to me.
+
+ ---
+</details>
+
+</br>
+
+
  
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> ](https://www.linkedin.com/in/-kevin-vigil/)
 
