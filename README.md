@@ -19,8 +19,8 @@
 
  ## Interested in
  - Backend related topics
- - Concurrency at thread and multi instance level
  - Payments & Fintech in general
+ - Web 3
 
 </br>
 
